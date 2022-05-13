@@ -20,7 +20,7 @@
 |**bindiff**|*| v7| https://www.zynamics.com/bindiff.html|https://wiki.smile-space.com/binary/iot/ipTIME/CVE-2021-26614_ipTIME%E6%91%84%E5%83%8F%E5%A4%B41day%E5%88%86%E6%9E%90.html|
 |**cwe_check**|*| v0.5 | https://github.com/fkie-cad/cwe_checker ||
 |**BinAbsInspector**|x86,x64, armv7 ，aarch64| v0.1 | https://github.com/KeenSecurityLab/BinAbsInspector ||
-|==二进制模拟==|| | ||
+|==二进制模拟==|:space_invader:| :pushpin: | :loudspeaker: |:book:|
 |firmadyne|IOT| | https://github.com/firmadyne/firmadyne ||
 |FirmAE|IOT| | https://github.com/pr0v3rbs/FirmAE ||
 |**QEMU**|*| v7 | https://www.qemu.org/ ||
